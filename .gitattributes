@@ -35,3 +35,10 @@
 *.TTF filter=lfs diff=lfs merge=lfs -text
 *.cginc filter=lfs diff=lfs merge=lfs -text
 *.ogg filter=lfs diff=lfs merge=lfs -text
+Build/Ruled[[:space:]]Surfaces_Data/sharedassets1.resource filter=lfs diff=lfs merge=lfs -text
+Build/Ruled[[:space:]]Surfaces_Data/sharedassets0.resource filter=lfs diff=lfs merge=lfs -text
+Build/Ruled[[:space:]]Surfaces_Data/sharedassets2.resource filter=lfs diff=lfs merge=lfs -text
+Build/Ruled[[:space:]]Surfaces_Data/sharedassets3.resource filter=lfs diff=lfs merge=lfs -text
+Build/Ruled[[:space:]]Surfaces_Data/sharedassets4.resource filter=lfs diff=lfs merge=lfs -text
+Build/Ruled[[:space:]]Surfaces_Data/sharedassets5.resource filter=lfs diff=lfs merge=lfs -text
+Build/Ruled[[:space:]]Surfaces_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
