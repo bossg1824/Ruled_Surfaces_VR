@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:760de2b3e5d732ad83f32646324e35c1ea3d178d8c531def9b1cac21d58ad4b8
-size 130
+Download The Build Folder to use a built version, runs faster.
+
+All other folders allows the project to be open in the Unity Engine built on Unity 2022.3.19f1
