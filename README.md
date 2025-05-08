@@ -1,4 +1,4 @@
-A Ruled Surfaces VR Project, Created by Bella Villareal and Boston Gunderson. Presented at the 2025 JMM Undergrad Poster Sesion, and at the 5/8/2025 Grinnell College Math and Statistics Seminar. 
+A Ruled Surfaces VR Project, Created by Bella Villarreal and Boston Gunderson. Presented at the 2025 JMM Undergrad Poster Sesion, and at the 5/8/2025 Grinnell College Math and Statistics Seminar. 
 
 Usage:
 To download a built (.exe) version of this project you must download the entirety of the Build folder, you are not required to have contents from any other folder. Then, to run the built project run the Ruled_Surfaces.exe.
